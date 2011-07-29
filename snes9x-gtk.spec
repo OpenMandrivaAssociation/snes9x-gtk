@@ -23,7 +23,7 @@ BuildRequires:	portaudio-devel
 BuildRequires:	pulseaudio-devel
 BuildRequires:	alsa-lib-devel
 #BuildRequires:	gtkglext-devel
-BuildRequires:	SDL1.2-devel
+BuildRequires:	SDL-devel
 BuildRequires:	intltool
 BuildRequires:	perl
 BuildRoot:	%{_tmppath}/%{name}-%{version}
