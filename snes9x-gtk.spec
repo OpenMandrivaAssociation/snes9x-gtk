@@ -1,6 +1,6 @@
 Name:		snes9x-gtk
 Version:	1.53
-Release:	2
+Release:	3
 
 Summary:	Super NES emulator with a GTK frontend
 Group:		Emulators
