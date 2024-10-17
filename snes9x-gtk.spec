@@ -6,7 +6,7 @@ Summary:	Super NES emulator with a GTK frontend
 Group:		Emulators
 License:	LGPLv2+
 #Licensed under both the GNU LGPL 2.1 and the "BSD-style" Snes9x license.
-URL:		http://code.google.com/p/snes9x-gtk/
+URL:		https://code.google.com/p/snes9x-gtk/
 #changelog on the forum : http://www.snes9x.com/phpbb2/viewtopic.php?p=22874
 Source0:	http://snes9x-gtk.googlecode.com/files/snes9x-%{version}-src.tar.bz2
 Source1:	snes9x-gtk.png
